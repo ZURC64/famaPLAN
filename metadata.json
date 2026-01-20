@@ -1,0 +1,7 @@
+{
+  "name": "famaPLAN",
+  "description": "Uma plataforma inteligente para guiar empreendedores na criação de planos de negócios estruturados, baseada no guia oficial de Famalicão, com auxílio de IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
